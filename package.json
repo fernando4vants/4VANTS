@@ -1,0 +1,20 @@
+{
+  "name": "usuario",
+  "version": "1.0.0",
+  "description": "Criação de um novo usuario",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "eneva",
+    "e2e",
+    "test",
+    "automation"
+  ],
+  "author": "Fernando Eduardo",
+  "license": "MIT",
+  "devDependencies": {
+    "faker": "^5.5.3"
+  }
+}
